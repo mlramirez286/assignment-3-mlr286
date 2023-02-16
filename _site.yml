@@ -7,3 +7,8 @@ navbar:
       href: Marie.html
     - text: "Martina"
       href: martina.html  
+      
+theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
