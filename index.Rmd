@@ -1,0 +1,16 @@
+---
+title: "Assignment 3"
+output: html_document
+---
+
+![Figure 1: A random meadow.](https://www.macmillandictionary.com/external/slideshow/full/148259_full.jpg)
+
+
+
+<br>
+
+## Assignment author: Marie Ramirez 
+### Github account: [mlramirez286](https://github.com/mlramirez286)
+
+## Collaborator: Martina Morelli
+### Github account: [morellimartina](https://github.com/morellimartina)
